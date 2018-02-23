@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="fr" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="93f359b94e089230fdfbc72eb9cdc89a8964d577" datatype="html">
+        <source>Book an Appointment</source>
+        <target>Prenez rendez-vous</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/test01/test01.component.ts</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="22b498bdc18734508fb82986e20bf6cb36176461" datatype="html">
+        <source>Our investing Topics</source>
+        <target>Nos sujets d'investissement</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/test01/test01.component.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f9b450885ce67b30985564e469781d30cd46b96b" datatype="html">
+        <source><x id="INTERPOLATION" equiv-text="{{fieldValue.text }}"/></source>
+         <target><x id="INTERPOLATION" equiv-text="{{fieldValue.textfr}}"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/test01/test01.component.ts</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
