@@ -9,6 +9,6 @@ describe('td-frontend-dev-test App', () => {
 
   it('should display welcome message', () => {
     page.navigateTo();
-    expect(page.getParagraphText()).toEqual('Welcome to app!');
+    expect(page.getParagraphText()).toEqual('TD Frontend Technical Test');
   });
 });
